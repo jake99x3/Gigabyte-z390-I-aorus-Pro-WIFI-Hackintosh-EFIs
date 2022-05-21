@@ -8,4 +8,8 @@ Unzip folder and copy EFI folder + boot file to EFI directory of installer
 
 SMBIOS values removed
 
-075 EFI is configured for RX 5500 XT GPU. Select your EFI accordingly
+075 EFI is configured for RX 5500 XT GPU. 
+
+"OC080NoSMBIOS.zip" is for UHD 630
+
+Select your EFI accordingly
