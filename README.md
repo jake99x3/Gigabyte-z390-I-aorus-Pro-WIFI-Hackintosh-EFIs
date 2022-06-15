@@ -12,4 +12,6 @@ SMBIOS values removed
 
 "OC080NoSMBIOS.zip" is for UHD 630
 
+UHD630OPENCORE.zip is another EFI for UHD 630 with opencore 0.8.2 from Olarila. Runs Mac OS Beta 13
+
 Select your EFI accordingly
