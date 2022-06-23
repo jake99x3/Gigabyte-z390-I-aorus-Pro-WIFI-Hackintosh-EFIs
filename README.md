@@ -10,8 +10,8 @@ SMBIOS values removed
 
 075 EFI is configured for RX 5500 XT GPU. 
 
-"OC080NoSMBIOS.zip" is for UHD 630
+"OCUHD630.zip" is for UHD 630. I use it to run Mac OS Monterey 
 
-UHD630OPENCORE.zip is another EFI for UHD 630 with opencore 0.8.2 from Olarila. Runs Mac OS Beta 13
+"OC082withGPU.zip" is for boards with RX 5500 XT GPU. I run Mac OS Ventura Beta with it
 
 Select your EFI accordingly
