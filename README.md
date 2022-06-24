@@ -6,6 +6,8 @@ Sister repository to https://github.com/jake99x3/z390-I-Aorus-Pro-Wifi-Clover-Mo
 
 Unzip folder and copy EFI folder + boot file to EFI directory of installer 
 
+I have 2 of these boards both with a hackintosh install. 1 using UHD 630 and the other an RX 5500 XT
+
 SMBIOS values removed
 
 075 EFI is configured for RX 5500 XT GPU. 
