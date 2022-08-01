@@ -1,19 +1,7 @@
-# Gigabyte-Z390-Opencore- 
+# Gigabyte-Z390 I Aorus Pro WIfi Opencore 
 
-Gigabyte z390 I Aorus Pro Wifi Monterey 12.0.1 Opencore EFI
+This is my Hackintosh EFI repo. I have the mindset of sharing code, knowledge and all information espesially in order to help the next guy who buys this motherboard. It bothers me the moderators of www.reddit.com/r/hackintosh are so against this, detrimental to the community and it turns people away from said hackintosh community. 
 
-Sister repository to https://github.com/jake99x3/z390-I-Aorus-Pro-Wifi-Clover-Monterey
+This Repo has EFI's for i7 9700k Gigabyte z390 I Aorus Pro Wifi RX 5500 XT AND a seperate EFI for use with i5 8500 and UHD 630. 
 
-Unzip folder and copy EFI folder + boot file to EFI directory of installer 
-
-I have 2 of these boards both with a hackintosh install. 1 using UHD 630 and the other an RX 5500 XT
-
-SMBIOS values removed
-
-075 EFI is configured for RX 5500 XT GPU. 
-
-"OCUHD630.zip" is for UHD 630. I use it to run Mac OS Monterey 
-
-"OC082withGPU.zip" is for boards with RX 5500 XT GPU. I run Mac OS Ventura Beta with it
-
-Select your EFI accordingly
+Generate new SMBIOS values and choose your EFI accordingly
